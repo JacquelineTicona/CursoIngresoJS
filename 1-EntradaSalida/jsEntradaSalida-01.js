@@ -1,8 +1,12 @@
 /*
+Jacqueline Ticona DIV E 
+ejercicio 1 e/s 
 Al presionar el  botón, 
-se debe mostrar un mensaje como el siguiente "Esto funciona de maravilla"*/
+se debe mostrar un mensaje como el siguiente "Esto funciona de maravilla"
+*/
+
 function mostrar()
 {
-	alert("Hola Mundo");
+	alert("ESTO FUNCONA DE MARAVILLA");
 }
 
